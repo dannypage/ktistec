@@ -1,0 +1,16 @@
+name: libxml_ext
+version: 0.1.2
+
+description: |
+  Extensions to XML in Crystal.
+
+authors:
+  - Todd Sundsted
+
+crystal: ">= 0.35.1, < 2.0.0"
+
+development_dependencies:
+  spectator:
+    gitlab: arctic-fox/spectator
+
+license: MIT
